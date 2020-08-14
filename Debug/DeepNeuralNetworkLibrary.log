@@ -1,0 +1,11 @@
+﻿  Test.cpp
+C:\Users\AI\source\repos\DeepNeuralNetworkLibrary\DeepNeuralNetworkLibrary\Optimizers.h(48,20): warning C4018: '<': signed/unsigned mismatch
+  The contents of <variant> are available only with C++17 or later.
+C:\Users\AI\source\repos\DeepNeuralNetworkLibrary\DeepNeuralNetworkLibrary\DeepNeuralNetwork.h(84,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AI\source\repos\DeepNeuralNetworkLibrary\DeepNeuralNetworkLibrary\DeepNeuralNetwork.h(111,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\AI\source\repos\DeepNeuralNetworkLibrary\DeepNeuralNetworkLibrary\DeepNeuralNetwork.h(112,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DeepNeuralNetworkLibrary.vcxproj -> C:\Users\AI\source\repos\DeepNeuralNetworkLibrary\Debug\DeepNeuralNetworkLibrary.exe
